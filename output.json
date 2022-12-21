@@ -1,0 +1,1798 @@
+{
+  "habarovsk.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "swp.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": []
+    }
+  ],
+  "vladivostok.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "smolensk.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "saransk.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "ryazan.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "magadan.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "arkhangelsk.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "magnitogorsk.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "surgut.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "kazan.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "cherkessk.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "saratov.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "cherepovets.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "visits.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "petropavlovsk-kamchatskiy.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "merchant.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "yaroslavl.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "irkutsk.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "panel.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": []
+    }
+  ],
+  "mylm.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "izhevsk.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "psinspector.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": []
+    }
+  ],
+  "community.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "krasnoyarsk.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "chita.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "itsm.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": []
+    }
+  ],
+  "fabrika.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "sosedi.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": []
+    }
+  ],
+  "yarmarka.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": []
+    }
+  ],
+  "krym.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "rostov.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "ulan-ude.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "syktyvkar.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "perm.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "budukak.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "21": "FTP"
+        },
+        {
+          "22": "FTPS / SSH"
+        },
+        {
+          "25": "SMTP"
+        },
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        },
+        {
+          "587": "SMTP SSL"
+        },
+        {
+          "3306": "MySQL"
+        }
+      ]
+    }
+  ],
+  "3d.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": []
+    }
+  ],
+  "sad.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "21": "FTP"
+        },
+        {
+          "22": "FTPS / SSH"
+        },
+        {
+          "25": "SMTP"
+        },
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        },
+        {
+          "587": "SMTP SSL"
+        },
+        {
+          "3306": "MySQL"
+        }
+      ]
+    }
+  ],
+  "kaliningrad.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "velikiy-novgorod.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "kemerovo.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "yoshkar-ola.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "tula.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "mylm-app.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": []
+    }
+  ],
+  "clicks.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "forum.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "services-emb.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": []
+    }
+  ],
+  "volzhskiy.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "tolyatti.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "magas.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "kursk.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "voronezh.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "adfs.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "api.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "penza.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "kurgan.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "links.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "mail.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": []
+    }
+  ],
+  "chatbot.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "kaluga.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "www.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "tver.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "sterlitamak.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "api-p2p.internal.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": []
+    }
+  ],
+  "pay.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "bryansk.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "kz.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": []
+    }
+  ],
+  "astrahan.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "owa.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "yakutsk.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "chelyabinsk.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "abakan.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "nizhnekamsk.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "mahachkala.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "salekhard.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "cheboksary.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "maykop.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "orel.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "petrozavodsk.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "kyzyl.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "groznyy.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "novokuznetsk.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "nalchik.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "omsk.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "rabota.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "stavropol.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "lipetsk.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "sochi.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "vologda.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "nizhniy-novgorod.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "autodiscover.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "api-test.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "elista.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "noginsk.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "pskov.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "mx.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "22": "FTPS / SSH"
+        },
+        {
+          "80": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "wfm.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "oauth.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "families.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "barnaul.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "belgorod.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "lmfilecloud.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "dmp.dmpkit.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "partners.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "gorno-altaysk.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "volgograd.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "shkola-remonta.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": []
+    }
+  ],
+  "wac.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "zhukovskiy.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "kostroma.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "naberezhnye-chelny.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "novosibirsk.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "hanty-mansiysk.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "pyatigorsk.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "market.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "prazdnik.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": []
+    }
+  ],
+  "nazran.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "rtp.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "blagoveshchensk.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "status.lmru.tech": [
+    {
+      "hostname": "lmru.tech",
+      "ports": []
+    }
+  ],
+  "novorossiysk.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "tyumen.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "feed.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "spb.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "s.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "21": "FTP"
+        },
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "promo.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "ucc.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "aservices-emb.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": []
+    }
+  ],
+  "ivanovo.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "simferopol.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "tomsk.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "www.aem.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "ufa.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "birobidzhan.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "naryan-mar.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "dom.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "krasnodar.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "clientprojects.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "sip.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "tambov.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "vladimir.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "klin.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ],
+  "confluence.lmru.tech": [
+    {
+      "hostname": "lmru.tech",
+      "ports": []
+    }
+  ],
+  "anadyr.leroymerlin.ru": [
+    {
+      "hostname": "leroymerlin.ru",
+      "ports": [
+        {
+          "80": "HTTPS"
+        },
+        {
+          "443": "HTTPS"
+        }
+      ]
+    }
+  ]
+}
