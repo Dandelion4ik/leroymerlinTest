@@ -1,16 +1,47 @@
-# This is a sample Python script.
+import socket
+import json
+import re
+from contextlib import closing
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+pattern_leroy = re.compile(r"(leroymerlin[.]ru)")
+pattern_lmru = re.compile(r"(lmru[.]tech)")
+
+# САМЫЕ ПОПУЛЯРНЫЕ ПОРТЫ
+ports = {21: "FTP", 22: "FTPS / SSH", 25: "SMTP", 80: "HTTPS", 110: "POP3", 143: 'IMAP', 443: 'HTTPS',
+         587: 'SMTP SSL', 993: 'IMAP SSL', 995: 'POP3 SSL', 2082: 'cPanel', 2083: 'cPanel SSL',
+         2086: 'WHM', 2087: 'WHM SSL', 2095: 'Webmail', 2096: 'Webmail SSL', 3306: 'MySQL'}
+
+output = {}
 
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+def scan(url, domain):
+    global output
+    try:
+        ip = socket.gethostbyname(url)
+    except socket.error:
+        return
+    access_port = {'hostname': domain, 'ports': []}
+    for port in ports:
+        with closing(socket.socket(socket.AF_INET, socket.SOCK_STREAM)) as sock:
+            sock.settimeout(0.5)
+            if sock.connect_ex((ip, port)) == 0:
+                access_port['ports'].append({port: ports[port]})
+            else:
+                continue
+    output[url] = [access_port]
+    return
 
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+if __name__ == "__main__":
+    file_name = 'list_of_hosts.txt'
+    with open(file_name, mode="r") as file:
+        for item in file:
+            item = item.rstrip()
+            if pattern_leroy.search(item):
+                scan(item, 'leroymerlin.ru')
+            elif pattern_lmru.search(item):
+                scan(item, 'lmru.tech')
+            else:
+                continue
+    with open('output.json', 'w', encoding='UTF-8') as file:
+        json.dump(output, file)
